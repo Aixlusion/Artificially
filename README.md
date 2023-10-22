@@ -1,5 +1,5 @@
 # Artificially
-## Powered by Forge 1.20.2
+## Powered by Forge 1.20.1
 
 ### Info
 - My modpack is about tech stuff, from hi-tech to lo-tech, made by only 1 person.

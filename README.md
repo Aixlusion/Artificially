@@ -1,4 +1,4 @@
-# Artificially
+# Artificially (EarlyAlpha)
 ## Powered by Forge 1.20.1
 
 ### Info
